@@ -46,6 +46,7 @@
      <Compile Include="Assets/Scripts/Testing.cs" />
      <Compile Include="Assets/Scripts/Grid/GridSystem.cs" />
      <Compile Include="Assets/Scripts/Grid/GridObject.cs" />
+     <Compile Include="Assets/Scripts/CameraController.cs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Assets/PolygonPrototype/Shaders/Prototype_Glass_Global.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
@@ -779,6 +780,9 @@
     <Reference Include="Unity.Services.Core">
         <HintPath>/Users/louisecollins/Repos/Unity2D/Turn_Based_Strategy_Course/TBS Course/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+        <HintPath>/Users/louisecollins/Repos/Unity2D/Turn_Based_Strategy_Course/TBS Course/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Services.Core.Analytics">
         <HintPath>/Users/louisecollins/Repos/Unity2D/Turn_Based_Strategy_Course/TBS Course/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
     </Reference>
@@ -787,6 +791,9 @@
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
         <HintPath>/Users/louisecollins/Repos/Unity2D/Turn_Based_Strategy_Course/TBS Course/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+        <HintPath>/Users/louisecollins/Repos/Unity2D/Turn_Based_Strategy_Course/TBS Course/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
         <HintPath>/Users/louisecollins/Repos/Unity2D/Turn_Based_Strategy_Course/TBS Course/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
