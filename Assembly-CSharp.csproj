@@ -45,6 +45,7 @@
      <Compile Include="Assets/Scripts/UnitActionSystem.cs" />
      <Compile Include="Assets/Scripts/Unit.cs" />
      <Compile Include="Assets/Scripts/Testing.cs" />
+     <Compile Include="Assets/Scripts/MoveAction.cs" />
      <Compile Include="Assets/Scripts/Grid/GridSystem.cs" />
      <Compile Include="Assets/Scripts/Grid/GridObject.cs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
